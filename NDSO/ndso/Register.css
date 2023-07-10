@@ -1,0 +1,64 @@
+﻿.T1 {
+ width:250px;
+ height:35px;
+ border:solid 1px;
+ border-radius:5px;
+ border-color:mediumslateblue;   
+}
+.T2 {
+ width:250px;
+ height:35px;
+ border:solid 1px;
+ border-radius:5px;
+ border-color:mediumslateblue;   
+}
+.T3 {
+ width:250px;
+ height:35px;
+ border:solid 1px;
+ border-radius:5px;
+ border-color:mediumslateblue;   
+}
+.T4 {
+ width:250px;
+ height:35px;
+ border:solid 1px;
+ border-radius:5px;
+ border-color:mediumslateblue;   
+}
+.T5 {
+ width:250px;
+ height:35px;
+ border:solid 1px;
+ border-radius:5px;
+ border-color:mediumslateblue;   
+}
+.T6 {
+ width:250px;
+ height:35px;
+ border:solid 1px;
+ border-radius:5px;
+ border-color:mediumslateblue;   
+}
+.bdiv {
+   width:100px;
+   height:30px;
+   background-color:mediumslateblue;
+
+}
+    .bdiv:hover {
+    background-color:black;
+    }
+
+.btns {
+    width:100px;
+    height:30px;
+    background-color:white;
+    border-radius:10px;
+}
+    .btns:hover {
+    background-color:mediumslateblue;
+    color:white;
+    }
+
+

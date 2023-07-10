@@ -1,0 +1,141 @@
+﻿.tbx {
+    width:300px;
+    height:35px;
+    border-color:mediumslateblue;
+    border-radius:1px;
+    font-size:20px;
+    margin-top:10px;
+}
+.bt {
+width:120px;
+height:30px;
+background-color:mediumslateblue;
+border-color:mediumslateblue;
+border-radius:2px;
+margin-top:10px;
+}
+.btn {
+    width:120px;
+    height:30px;
+    background-color:white;
+    border-color:mediumslateblue;
+    border-top-right-radius:30px;
+    border-top-left-radius:30px;
+    font-size:18px;    
+   }
+    .btn:hover {
+    background-color:mediumslateblue;
+    color:white;
+    }
+     .bt:hover {
+    background-color:black;
+    }
+.texts {
+font-size:22px;
+}
+.tab {
+margin-top:20px;
+}
+.User {
+color:white;
+margin-top:15px;
+}
+.h {
+   margin-right:15px;
+}
+.T1 {
+     width:280px;
+     height:35px;
+     border-color:mediumslateblue;
+     border-radius:5px;
+    // margin-top:10px;
+    font-size:18px;
+}
+.T2 {
+     width:280px;
+     height:35px;
+     border-color:mediumslateblue;
+     border-radius:5px;
+     margin-top:9px;
+     font-size:18px;
+}
+.T3 {
+     width:285px;
+     height:40px;
+     border-color:mediumslateblue;
+     border-radius:5px;
+     margin-top:9px;
+     font-size:18px;
+}
+.T4 {
+     width:280px;
+     height:35px;
+     border-color:mediumslateblue;
+     border-radius:5px;
+     margin-top:9px;
+     font-size:18px;
+}
+.T5 {
+     width:285px;
+     height:40px;
+     border-color:mediumslateblue;
+     border-radius:5px;
+     margin-top:9px;
+     font-size:18px;
+}
+.T6 {
+     width:280px;
+     height:35px;
+     border-color:mediumslateblue;
+     border-radius:5px;
+     margin-top:9px;
+     font-size:18px;
+}
+.T7 {
+     width:280px;
+     height:35px;
+     border-color:mediumslateblue;
+     border-radius:5px;
+     margin-top:9px;
+     font-size:18px;
+}
+.T8 {
+     width:280px;
+     height:35px;
+     border-color:mediumslateblue;
+     border-radius:5px;
+     margin-top:9px;
+     font-size:18px;
+}
+.btns {
+    width:100px;
+    height:35px;
+    background-color:white;
+    border-bottom-left-radius:30px;
+    border-top-right-radius:30px;
+    border-bottom-right-radius:1px;
+    border-top-left-radius:1px;
+    border-color:mediumslateblue;
+    //margin-top:10px;
+    font-size:18px;
+    
+}
+.btns:hover {
+     color:white;
+     background-color:mediumslateblue; 
+}
+.dcover {
+    width:100px;
+    height:35px;
+    border-color:mediumslateblue;
+    border-radius:5px;
+    background-color:mediumslateblue;
+    margin-top:10px;
+    margin-left:200px;
+}
+    .dcover:hover {
+    background-color:black;
+    }
+.labels {
+    font-size:24px;
+    }

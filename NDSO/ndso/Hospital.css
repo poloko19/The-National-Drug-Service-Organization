@@ -1,0 +1,52 @@
+﻿.side {
+        width:200px;
+        height:675px;
+        background-color:mediumslateblue;
+        float:left;
+      }
+.tops 
+{
+      width:1120px;
+      height:140px;
+      border:solid 3px;
+      border-color:mediumslateblue;
+      float:left;
+      margin-left:5px;
+}
+.in_top {
+      width:1118px;
+      height:40px;
+      background-color:mediumslateblue;
+      margin-left:1px;
+      margin-top:98px;
+}
+.inside {
+    width:40px;
+    height:672px;
+    background-color:black;
+    float:left;
+}
+.bottom {
+      background-color:white;
+      width:1124px;
+      height:500px;
+      float:left;
+      margin-left:5px;
+}
+.menu_list {
+    margin-top:90px;
+}
+.list {
+      width:150px;
+      height:30px;
+      border:solid 1px;
+      border-color:white;
+      list-style:none;
+      margin-top:2px; 
+}
+.text {
+text-decoration:none;
+color:white;
+margin-top:2px; 
+
+}

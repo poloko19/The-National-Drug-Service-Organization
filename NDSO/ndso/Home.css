@@ -1,0 +1,50 @@
+﻿.top {
+    width:auto;
+    height:560px;
+    background-color:white;
+    //margin-top:-10px;
+   
+}
+.nav {
+width:auto;
+height:50px;
+background-color:mediumslateblue;
+margin-top:50px;
+}
+.reg {
+float:right;
+margin-top:-35px;
+}
+.reg1 {
+     float:left;
+     list-style:none;
+     margin-right:30px;
+}
+.anc {
+    text-decoration:none;
+}
+.navss {
+      float:right;
+      font-size:20px;
+}
+.navs {
+     float:left;
+     color:white;
+     list-style:none;
+     margin-right:30px;
+     margin-top:-22px;
+     color:ghostwhite;
+}
+.anch {
+text-decoration:none;
+color:ghostwhite;
+}
+.hdr {
+float:left;
+color:mediumslateblue;
+margin-top:-40px;
+margin-left:350px;
+}
+
+
+

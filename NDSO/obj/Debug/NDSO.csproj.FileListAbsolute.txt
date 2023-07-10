@@ -1,0 +1,10 @@
+c:\users\jacob.mahlatsi\documents\visual studio 2012\Projects\NDSO\NDSO\bin\NDSO.dll
+c:\users\jacob.mahlatsi\documents\visual studio 2012\Projects\NDSO\NDSO\bin\NDSO.pdb
+c:\users\jacob.mahlatsi\documents\visual studio 2012\Projects\NDSO\NDSO\obj\Debug\NDSO.csprojResolveAssemblyReference.cache
+c:\users\jacob.mahlatsi\documents\visual studio 2012\Projects\NDSO\NDSO\obj\Debug\NDSO.dll
+c:\users\jacob.mahlatsi\documents\visual studio 2012\Projects\NDSO\NDSO\obj\Debug\NDSO.pdb
+C:\Users\POLOKO\Documents\MAHLEHLE\NDSO\NDSO\bin\NDSO.dll
+C:\Users\POLOKO\Documents\MAHLEHLE\NDSO\NDSO\bin\NDSO.pdb
+C:\Users\POLOKO\Documents\MAHLEHLE\NDSO\NDSO\obj\Debug\NDSO.dll
+C:\Users\POLOKO\Documents\MAHLEHLE\NDSO\NDSO\obj\Debug\NDSO.pdb
+C:\Users\POLOKO\Documents\MAHLEHLE\NDSO\NDSO\obj\Debug\NDSO.csprojResolveAssemblyReference.cache

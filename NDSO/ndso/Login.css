@@ -1,0 +1,21 @@
+﻿.tbx {
+width:250px;
+height:35px;
+border-radius:5px;
+border:solid 1px;
+border-color:mediumslateblue;
+}
+.Btns {
+   width:80px;
+   height:30px;
+   border-radius:5px;
+   border:solid 1px;
+   border-color:mediumslateblue;
+}
+.btnlog {
+     width:80px;
+     height:30px;
+     border-radius:5px;
+     border:solid 1px;
+     border-color:mediumslateblue;
+}
